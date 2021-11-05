@@ -1,1 +1,6 @@
 This is day1 of myself study about GitHub desktop application.
+
+I created a git repository on desktop called GitHub-Desktop-Day1
+
+I added one file inside called file1.txt
+Git automatically detected the changes into local repository
