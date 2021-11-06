@@ -7,3 +7,5 @@ Git automatically detected the changes into local repository
 
 This line added after creating file3.txt. 
 More changes have been added! 
+
+I am making some changes for file1.txt under GitHub-Desktop-Day1 repository
